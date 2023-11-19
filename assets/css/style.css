@@ -747,6 +747,10 @@ a:hover {
   position: absolute;
 }
 
+.textColor{
+  color: rgb(85, 240, 227);
+}
+
 .hero .overlay-itro {
   background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
